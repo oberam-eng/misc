@@ -5,7 +5,7 @@ class Dollar(object):
         self.amount = amount
 
     def times(self, multiplier):
-        self.amount *= multiplier
+        return Dollar(self.amount * multiplier)
 
     def kiss(self):
         return 0
