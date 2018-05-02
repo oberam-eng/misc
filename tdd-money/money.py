@@ -7,6 +7,9 @@ class Dollar(object):
     def times(self, multiplier):
         return Dollar(self.amount * multiplier)
 
+    def __eq__(self, other):
+        return self.amount == other.amount
+
     def equals(self, other):
         return self.amount == other.amount
 
