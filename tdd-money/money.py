@@ -1,6 +1,6 @@
 
 
-class Dollar(object):
+class Money:
     def __init__(self, amount):
         self.amount = amount
 
@@ -12,6 +12,22 @@ class Dollar(object):
 
     def equals(self, other):
         return self.amount == other.amount
+
+    def kiss(self):
+        return 0
+
+
+class Dollar(Money):
+    def __init__(self, amount):
+        Money.__init__(self, amount)
+
+    def kiss(self):
+        return 0
+
+
+class Euro(Money):
+    def __init__(self, amount):
+        Money.__init__(self, amount)
 
     def kiss(self):
         return 0

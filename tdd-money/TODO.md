@@ -1,10 +1,15 @@
 ## TODO List
-- [] $5 + 10 CHF = $10 if rate is 2:1
+- [] $5 + 5 € = $12.5 if rate is 1:1.5
 - [X] $5 * 2 = $10
 - [] Make "amount" private
 - [X] Dollar side-effects
 - [] Money rounding?
 - [X] equals()
-- hashCode()
-- Equal null
-- Equal object
+- [] hashCode()
+- [] Equal null
+- [] Equal object
+- [] 5€ * 2 = 10€
+- [] Dollar/Franc duplication
+- []Common equals
+- []Common times
+- Compare Franc and Dollars
