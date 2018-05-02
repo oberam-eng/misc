@@ -10,15 +10,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tdd_money$Unittests_in_unit_tests_py.coverage" NAME="Unittests in unit_tests.py Coverage Results" MODIFIED="1525228965111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tdd_money$Unittests_in_unit_tests_py.coverage" NAME="Unittests in unit_tests.py Coverage Results" MODIFIED="1525234613852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="money.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/money.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file leaf-file-name="unit_tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="216">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -80,45 +80,6 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="tdd-money" type="cbb8eebc:String" user="tdd-money" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="usr" type="cbb8eebc:String" user="usr" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="usr" type="cbb8eebc:String" user="usr" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="usr" type="cbb8eebc:String" user="usr" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-              <item name="python3.6" type="cbb8eebc:String" user="python3.6" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="usr" type="cbb8eebc:String" user="usr" />
-              <item name="lib" type="cbb8eebc:String" user="lib" />
-              <item name="python3.6" type="cbb8eebc:String" user="python3.6" />
-              <item name="site-packages" type="cbb8eebc:String" user="site-packages" />
             </path>
           </expand>
           <select />
@@ -178,34 +139,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 48m 21s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 14m 28s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 48m 36s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 15m 09s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 49m 29s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 15m 17s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 51m 53s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 15m 34s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 52m 11s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 15m 47s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 52m 19s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 15m 58s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 52m 43s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 16m 28s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 57m 50s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 16m 42s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 03h 57m 55s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 16m 51s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 04h 40m 50s.xml">
+    <history-entry file="Unittests_in_unit_tests_py - 2018.05.02 at 06h 16m 53s.xml">
       <configuration name="Unittests in unit_tests.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -248,10 +209,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/diff_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unit_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="216">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -260,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/money.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

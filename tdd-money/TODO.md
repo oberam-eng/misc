@@ -8,8 +8,8 @@
 - [] hashCode()
 - [] Equal null
 - [] Equal object
-- [] 5€ * 2 = 10€
+- [X] 5€ * 2 = 10€
 - [] Dollar/Franc duplication
-- []Common equals
-- []Common times
-- Compare Franc and Dollars
+- [X] Common equals
+- [] Common times
+- [] Compare Franc and Dollars

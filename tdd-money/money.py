@@ -1,33 +1,32 @@
 
 
-class Money:
-    def __init__(self, amount):
+class Money():
+    def __init__(self, amount, currency):
         self.amount = amount
+        self.currency = currency
+
+    #def __add__(self, other):
+    #    return Money(self.amount + other.amount, self.currency)
+
+    def reduce(self, other):
+        return 0
 
     def times(self, multiplier):
-        return Dollar(self.amount * multiplier)
+        return Money(self.amount * multiplier, self.currency)
+
+    def currency(self):
+        return self.currency
 
     def __eq__(self, other):
-        return self.amount == other.amount
+        return self.amount == other.amount and self.currency == other.currency
 
-    def equals(self, other):
-        return self.amount == other.amount
+    @staticmethod
+    def dollar(amount):
+        return Money(amount, "USD")
 
-    def kiss(self):
-        return 0
-
-
-class Dollar(Money):
-    def __init__(self, amount):
-        Money.__init__(self, amount)
-
-    def kiss(self):
-        return 0
-
-
-class Euro(Money):
-    def __init__(self, amount):
-        Money.__init__(self, amount)
+    @staticmethod
+    def euro(amount):
+        return Money(amount, "EUR")
 
     def kiss(self):
         return 0
