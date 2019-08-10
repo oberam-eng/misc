@@ -1,0 +1,15 @@
+## TODO List
+- [] $5 + 5 € = $12.5 if rate is 1:1.5
+- [X] $5 * 2 = $10
+- [] Make "amount" private
+- [X] Dollar side-effects
+- [] Money rounding?
+- [X] equals()
+- [] hashCode()
+- [] Equal null
+- [] Equal object
+- [X] 5€ * 2 = 10€
+- [] Dollar/Franc duplication
+- [X] Common equals
+- [] Common times
+- [] Compare Franc and Dollars
