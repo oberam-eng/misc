@@ -19,6 +19,10 @@ public class Dollar {
 		return new Dollar(amount * multiplier);
 	}
 	
+	boolean equals() {
+		return true;
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
